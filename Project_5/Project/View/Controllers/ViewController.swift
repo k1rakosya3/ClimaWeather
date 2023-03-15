@@ -4,6 +4,23 @@
 //  Created by Valodya Galstyan on 23.02.23.
 //
 // PickerView, UITextView
+
+
+//
+//
+//
+//
+//
+//wertrrrrrrrrrrrrrrrrrrrrrrr
+
+
+
+
+
+
+
+
+
 import UIKit
 
 class ViewController: UIViewController {
